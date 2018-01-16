@@ -1,0 +1,16 @@
+{
+  "name": "amandeepmittal.github.io",
+  "version": "2.3.0",
+  "description": "Personal Website: [amandeepmittal.github.io](https://amandeepmittal.github.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/amandeepmittal/amandeepmittal.github.io/issues"
+  },
+  "homepage": "https://github.com/amandeepmittal/amandeepmittal.github.io#readme",
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": " BSD 3-Clause License"
+}
